@@ -1,7 +1,6 @@
 # NeuroStartUp
 
-![NeuroStartUp 
-Technology matters](./logo.png)
+![NeuroStartUp Technology matters](./logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
